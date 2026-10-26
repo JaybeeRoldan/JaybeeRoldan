@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JaybeeRoldan.
-- 👀 I’m interested in creating a webpage and other apps.
-- 🌱 I’m currently learning html, phyton, and Java.
-- 💞️ I’m looking to collaborate on a project that will give me the experience that I needed. 
+- 👀 I’m currently creating webpages and apps.
+- 🌱 I’m currently using HTML, Python, and Java.
+- 💞️ I’m looking to collaborate on a project that will give me the experience that I need. 
 - 📫 How to reach me: josebernardoembodobello@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
